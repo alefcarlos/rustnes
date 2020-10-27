@@ -1,14 +1,14 @@
 pub struct Cartridge {
-    // PRG-ROM banks
+    /// PRG-ROM banks
     pub PRG: [i8],
-    // CHR-ROM banks
+    /// CHR-ROM banks
     pub CHR: [i8],
-    // Save RAM
+    /// Save RAM
     pub SRAM: [i8],
-    // mapper type
+    /// mapper type
     pub Mapper: i8,
-    //mirroring mode
+    /// Mirroring mode
     pub Mirror: i8,
-    // battery present
+    /// battery present
     pub Battery: i8,
 }
