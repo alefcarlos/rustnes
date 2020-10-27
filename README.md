@@ -1,5 +1,7 @@
 # rustnes
 
+![Rust](https://github.com/alefcarlos/rustnes/workflows/Rust/badge.svg)
+
 Based on https://github.com/akitaonrails/nes
 
 ### Installation
