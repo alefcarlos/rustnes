@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-    "rustnes-core"
+    "rustnes-core",
+    "rustnes"
 ]
